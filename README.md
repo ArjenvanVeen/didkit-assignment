@@ -72,3 +72,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # didkit-assignment
+
+When running the app, use the command line to call the controller endpoints, or simply visit the endpoint urls as described in the controller to start issuing and verifying a KYCAMLAttestation
